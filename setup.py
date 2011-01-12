@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1-SNAPSHOT'
+version = '1.1'
 
 setup(name='collective.collage.maps',
       version=version,
