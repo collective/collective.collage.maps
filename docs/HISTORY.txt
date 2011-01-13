@@ -4,6 +4,11 @@ Changelog
 1-SNAPSHOT (unreleased)
 -----------------------
 
+1.2.1 (2011-01-13)
+------------------
+
+- Bugfix release; include files in directory "patches". 
+
 1.2 (2011-01-13)
 ----------------
 
