@@ -4,6 +4,9 @@ Changelog
 1-SNAPSHOT (unreleased)
 -----------------------
 
+1.2 (2011-01-13)
+----------------
+
 - Patch Products.Maps so this product works with Products.Maps 2.1.0, not just 
   the current trunk. This patch can be removed when a new Products.Maps is
   released.
