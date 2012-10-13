@@ -4,6 +4,8 @@ Changelog
 1-SNAPSHOT (unreleased)
 -----------------------
 
+- Moved to https://github.com/collective/collective.collage.maps
+
 1.2.1 (2011-01-13)
 ------------------
 
